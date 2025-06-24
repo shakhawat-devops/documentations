@@ -1,4 +1,4 @@
-# Deploy the Mountpoint for Amazon S3 driver
+# Deploy the Mountpoint for Amazon S3 driver on EKS
 With the Mountpoint for Amazon S3 Container Storage Interface (CSI) driver, your Kubernetes applications can access Amazon S3 objects through a file system interface, achieving high aggregate throughput without changing any application code.
 
 This procedure will show you how to deploy the Mountpoint for Amazon S3 CSI Amazon EKS driver.
