@@ -161,16 +161,6 @@ helm upgrade --install kube-prometheus-stack \
 
 ---
 
-## 🧭 Diagrams
-
-### Azure AD SSO Login Flow
-![Azure AD SSO Flow](./azure_ad_sso_flow.png)
-
-### Grafana RBAC Role Mapping from Azure AD Groups
-![Grafana RBAC Mapping](./grafana_rbac_mapping.png)
-
----
-
 ## 🧪 Troubleshooting
 
 | Problem                         | Solution                                                                 |
