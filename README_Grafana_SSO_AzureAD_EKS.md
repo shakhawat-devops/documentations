@@ -109,7 +109,7 @@ Replace:
 
 ---
 
-## 🔌 Step 6: Add Multiple Data Sources
+## 🔌 Step 6: Add Multiple Data Sources if you want to push data from differenet prometheus/loki servers (Optional)
 
 ```yaml
 grafana:
